@@ -1,19 +1,17 @@
-package inDegreeOutDegree;
-
-import java.util.List;
+package patterns.inDegreeOutDegree;
 
 /**
  * <h2>Graphs</h2>
  * Pattern / Strategy / Technique
  * <h3>in-degree and out-degree</h3>
- * In graph theory to describe the number of edges connected to a node (vertex) in a directed
+ * In graph theory to describe the number of edges connected to a misc.node (vertex) in a directed
  * <code>
  *     <pre>
 
- *     {@code In-Degree}   : The number of edges directed toward a node.
- *                  Essentially, it counts how many other nodes point to this node
- *     {@code Out-Degree}  : The number of edges directed away from a node.
- *                  It counts how many other nodes this node points to.
+ *     {@code In-Degree}   : The number of edges directed toward a misc.node.
+ *                  Essentially, it counts how many other nodes point to this misc.node
+ *     {@code Out-Degree}  : The number of edges directed away from a misc.node.
+ *                  It counts how many other nodes this misc.node points to.
  *     </pre>
  * </code>
  */

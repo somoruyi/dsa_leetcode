@@ -1,4 +1,4 @@
-package prefixSum;
+package patterns.prefixSum;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -27,7 +27,7 @@ public class PrefixSum {
             if (map.containsKey(prefixSum - k)) {
                 count += map.get(prefixSum - k); // Add the count of subarrays that sum to k
             }
-            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1); // Update map with current prefixSum
+            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1); // Update map with current patterns.prefixSum
         }
 
         return count;
