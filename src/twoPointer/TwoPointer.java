@@ -1,4 +1,4 @@
-package src.twoPointer;
+package twoPointer;
 
 /**
  * <h3>Two Pointer Technique</h3>
