@@ -112,6 +112,13 @@
 - **217.** Contains Duplicate (using a hash set)
 - **242.** Valid Anagram (using character frequency counts)
 
+#### 16. Mathematical Manipulation
+###### Description:
+- 
+###### Problems:
+- **7.** Reverse Integer
+
+
 
 #### Videos
 - [LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!)](https://youtu.be/RYT08CaYq6A?si=WBiscmHsus1Nv0-T)
