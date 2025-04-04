@@ -3,6 +3,9 @@
 #### 1. Two Pointer
 ###### Description
 - Efficient for problems involving arrays and linked lists.
+###### Problems:
+- **997.** Squares of a sorted array.
+- 
 
 #### 2. Prefix Sum
 ###### Problems:
@@ -99,6 +102,16 @@
 - **416.** Partition Equal Subset Sum
 - **312.** Burst Balloons
 - **1143.** Longest Common Subsequence
+
+#### 15. Hashing-Based Techniques
+###### Description:
+- Use auxiliary structures, such as arrays or hash maps, to track states or optimize lookups. These techniques often improve the efficiency of lookups or checks within a dataset.
+
+###### Problems:
+- **41.** First Missing Positive (using a boolean array)
+- **217.** Contains Duplicate (using a hash set)
+- **242.** Valid Anagram (using character frequency counts)
+
 
 #### Videos
 - [LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!)](https://youtu.be/RYT08CaYq6A?si=WBiscmHsus1Nv0-T)

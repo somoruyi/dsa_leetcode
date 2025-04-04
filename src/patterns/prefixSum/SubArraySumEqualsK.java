@@ -3,15 +3,9 @@ package patterns.prefixSum;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * <h3>Prefix Sum Technique</h3>
- */
-public class PrefixSum {
-    public static void main(String[] args) {
-        System.out.println("-- Prefix Sum --");
-        subArraySumEqualsK();
 
-    }
+public class SubArraySumEqualsK {
+
 
     /**
      * 560. Subarray Sum Equals K
@@ -37,16 +31,4 @@ public class PrefixSum {
 
     }
 
-    /**
-     * 1991. Find the Middle Index in Array
-     */
-    public static void findTheMiddleIndexInArray(){
-
-    }
-
-    /**
-     * 1. Two Sum
-     * 523. Continuous Subarray Sum
-     * Subarray Product Less Than K
-     */
 }
